@@ -43,7 +43,7 @@ import Studynotion from './assets/work_logo/Study-notion.png';
 // Education Section Logo's
 // import glaLogo from './assets/education_logo/gla_logo.png';
 
-import IET from './assets/education_logo/iet.png';
+import IET from './assets/education_logo/IET.png';
 import jnv from './assets/education_logo/jnv.png';
 import super30 from './assets/education_logo/super30.png';
 
