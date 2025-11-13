@@ -32,7 +32,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 // import csharpLogo from './assets/tech_logo/csharp.png';
-import Amazon from './assets/work_logo/amazon.png';
+import Amazon from './assets/work_logo/Amazon.png';
 import ecozmy from './assets/work_logo/ecozmy.png';
 import Ems from './assets/work_logo/Ems.png';
 import Game from './assets/work_logo/Game.png';
